@@ -1,0 +1,30 @@
+.clear {clear: both;}
+.advsp-content-wrapper {
+	width: 60%;
+	min-width: 266px;
+	float: left;
+}
+.advsp-content-wrapper textarea {
+	width: 100%;
+}
+.advsp-options {
+	float: right;
+	width: 35%;
+	background: #ececec;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	padding: 10px 8px;
+	margin: 8px 6px 0;
+}
+.inner-sidebar .advsp-options {
+	width: auto;
+}
+.advsp-options label {
+	display: block;
+	margin: 3px 0 2px;
+}
+.advsp-checkbox {
+	display: inline;
+	margin: 0 5px ;
+}
